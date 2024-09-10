@@ -1,4 +1,4 @@
-name: tiamat10-test
+name: express10-test
 recipe: lamp 
 tooling:
   drush:
